@@ -1,4 +1,4 @@
-# spring-cloud-fnc
+# spring-cloud-function
 spring cloud function
 
 # pluralsight
